@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import Dropdown from './Dropdown';
-import Home from './Home'
+import Dropdown from './Dropdown.js';
+import Home from './Home.js'
 
 export default class App extends Component{
   constructor(){

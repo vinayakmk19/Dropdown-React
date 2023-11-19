@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vinayakmk19/Dropdown-React/static/css/main.c668045d.css",
-    "main.js": "/vinayakmk19/Dropdown-React/static/js/main.5c032f92.js",
-    "static/js/787.b9d7d041.chunk.js": "/vinayakmk19/Dropdown-React/static/js/787.b9d7d041.chunk.js",
-    "index.html": "/vinayakmk19/Dropdown-React/index.html",
-    "main.c668045d.css.map": "/vinayakmk19/Dropdown-React/static/css/main.c668045d.css.map",
-    "main.5c032f92.js.map": "/vinayakmk19/Dropdown-React/static/js/main.5c032f92.js.map",
-    "787.b9d7d041.chunk.js.map": "/vinayakmk19/Dropdown-React/static/js/787.b9d7d041.chunk.js.map"
+    "main.css": "/Dropdown-React/static/css/main.c668045d.css",
+    "main.js": "/Dropdown-React/static/js/main.76c9e735.js",
+    "static/js/787.b9d7d041.chunk.js": "/Dropdown-React/static/js/787.b9d7d041.chunk.js",
+    "index.html": "/Dropdown-React/index.html",
+    "main.c668045d.css.map": "/Dropdown-React/static/css/main.c668045d.css.map",
+    "main.76c9e735.js.map": "/Dropdown-React/static/js/main.76c9e735.js.map",
+    "787.b9d7d041.chunk.js.map": "/Dropdown-React/static/js/787.b9d7d041.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c668045d.css",
-    "static/js/main.5c032f92.js"
+    "static/js/main.76c9e735.js"
   ]
 }
